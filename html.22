@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="css.22">
+</head>
+
+<body class="body">
+    <div class="header">
+        <header>
+            <p class="headert">H2 Store</p>
+
+        </header>
+    </div>
+
+    <div class="home">
+        <p> Welcom In H2 Store</p>
+
+    </div>
+
+    <div class="search">
+        <input type="search" placeholder="search" list="search">
+        <a href="#search"></a>
+        <datalist id="search">
+            <option value="jorden">
+            <option value="nike">
+            <option value="tn">
+            <option value="shoks">
+            <option value="">
+        </datalist>
+    </div>
+
+
+    <div class="container">
+        <div class="card">
+            <a href="#img1">
+                <img src="shoe1.jpg" alt="mirror">
+                <h2>3000-4000LE</h2>
+                <p>3 items</p>
+            </a>
+        </div>
+
+        <div class="card">
+            <img src="shoe2.jpg" alt="mirror">
+            <h2>1500-3000LE</h2>
+            <p>20 items</p>
+        </div>
+
+        <div class="card">
+            <img src="shoe3.jpg" alt="">
+            <h2>500-1500LE</h2>
+            <p>1 ITEMS</p>
+        </div>
+
+        <br>
+
+        <div>
+            <ul>
+                <li>600-1000LE</li>
+                <li>1000-1500LE</li>
+                <li>1500-4000LE</li>
+            </ul>
+        </div>
+
+
+
+
+
+
+        <section class="contact" id="contact">
+            <h2>Contact Me</h2>
+            <form>
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <textarea rows="5" placeholder="Your Message"></textarea>
+                <button type="submit">Sendred</button>
+            </form>
+        </section>
+</body>
+
+</html>
