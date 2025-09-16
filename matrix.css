@@ -1,0 +1,51 @@
+.body {
+    background-color: #1b0030;
+}
+
+.header {
+    background-color: black;
+    font-size: 25px;
+    color: white;
+    font-weight: 600;
+    margin-top: -30px;
+    margin-left: -8px;
+}
+
+.p1 {
+    color: #7f5af0;
+    text-shadow: 1px 1px 10px #7f5af0;
+    text-align: center;
+    font-weight: 800;
+    font-size: 45px;
+    margin-top: 200px;
+    margin-bottom: 0px;
+}
+
+.p2 {
+    font-weight: 500;
+    font-size: 17px;
+    color: #7f5af0;
+    text-align: center;
+}
+
+.list1 {
+    color: white;
+    text-shadow: 1px 1px 10px white;
+}
+
+.img {
+    display: flex;
+    gap: 10px;
+    margin: 1px
+}
+
+.img1 {
+    width: 200px;
+    height: 200px;
+}
+
+
+.img2 {
+    width: 200px;
+    height: 200px;
+}
